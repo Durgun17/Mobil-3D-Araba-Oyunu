@@ -24,7 +24,8 @@ Resimler
 ![image](https://github.com/Durgun17/Mobil-3D-Araba-Oyunu/assets/120736801/04b8d75d-83df-41b3-9578-7c37b14dccb5)
 
 
-![image](https://github.com/Durgun17/Mobil-3D-Araba-Oyunu/assets/120736801/262f27f5-0576-4037-8ff9-82e5a3798df9)
+![image](https://github.com/Durgun17/Mobil-3D-Araba-Oyunu/assets/120736801/d6ca6c01-3f83-45dd-bc0a-09a14b3ae163)
+
 
 
 ![image](https://github.com/Durgun17/Mobil-3D-Araba-Oyunu/assets/120736801/40c05c3c-1eff-43ca-8a6a-249759264f23)
